@@ -23,7 +23,7 @@ often sufficient, but you can make it as complex as you need.
 There is not much here, so if you are familiar with how web sites are built in
 PHP, it should all make sense.
 
-To get started Fork, clone or download this repo. Then, in the `public` directory:
+To get started fork, clone or download this repo. Then, in the `public` directory:
 
 * Rename/add/remove directories to suit your needs
 * Modify `navbar.php` and match the menu items with your directories
