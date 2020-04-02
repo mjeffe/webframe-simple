@@ -1,0 +1,2 @@
+# github reports php as "Hack" which is Hacklang... whatever that is
+*.php linguist-language=PHP

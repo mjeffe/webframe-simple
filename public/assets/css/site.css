@@ -1,0 +1,13 @@
+nav.mj-navbar {
+    background: rgba(235, 235, 235, 0.85);
+}
+nav.mj-navbar .mj-brand {
+    text-size: x-large;
+}
+.mj-content {
+    /* margin: 40px, 2em, 2em, 2em; */
+    margin-top: 5em;
+}
+.mj-chunk {
+    min-height: 200px;
+}
